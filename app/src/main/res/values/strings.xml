@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">firebaseRecruiting</string>
+    <string name="click_to_Register" />
+    <string name="Login" />
+    <string name="Email" />
+    <string name="Password" />
+</resources>

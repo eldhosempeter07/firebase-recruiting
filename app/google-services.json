@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980866612639",
+    "project_id": "fir-recruiting",
+    "storage_bucket": "fir-recruiting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980866612639:android:d813fd74d54187bd0a11aa",
+        "android_client_info": {
+          "package_name": "com.example.firebaserecruiting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsvcWpclOcp5PIGpUhu_OiRHAI9wzNDfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
